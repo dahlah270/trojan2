@@ -1,2 +1,2 @@
 # trojan2
-cd trojan2 bash virus.sh
+cd trojan2 bash trojan.sh
