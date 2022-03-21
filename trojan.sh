@@ -181,7 +181,7 @@ clear
 echo -e $rd "Sudah Mengirim Virus"
 echo -e $we "Sedang Di Kembalikan"
 sleep 0.1
-bash OntakHack.sh
+bash trojan.sh
 fi
 if [[ $lp == 2 || $lp == 2 ]]
 then
